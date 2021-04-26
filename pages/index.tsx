@@ -9,7 +9,7 @@ const actions = [
   {
     title: 'Remdesivir',
 
-    description: 'List of sources to potentially get remdesivir from.',
+    description: 'List of sources to potentially get Remdesivir from',
     icon: BeakerIcon,
     iconForeground: 'text-teal-700',
     iconBackground: 'bg-teal-50'
@@ -17,7 +17,7 @@ const actions = [
   {
     title: 'Beds',
 
-    description: 'List of sources to check for hospital bed avaliability from.',
+    description: 'List of sources to check for hospital bed availability from',
     icon: ({ className }: { className: string }) => {
       return (
         <svg
@@ -35,7 +35,7 @@ const actions = [
   {
     title: 'Plasma',
     description:
-      'List of potentially plasma donors and sources to get plasma from',
+      'List of potential plasma donors and sources to get plasma from',
     icon: ({ className }: { className: string }) => {
       return (
         <svg
@@ -93,7 +93,7 @@ const actions = [
   {
     title: 'Other',
     description:
-      'List of any other useful information that can assit covid patiences, regarding vaccines, ambunances, food,etc',
+      'List of any other useful information that can assist COVID patients with vaccines, ambulances, food, etc',
 
     icon: InformationCircleIcon,
     iconForeground: 'text-indigo-700',
