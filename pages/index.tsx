@@ -65,7 +65,7 @@ const actions = [
   },
   {
     title: 'Oxygen',
-    description: 'List of potential sources to get oxygen tanks from',
+    description: 'List of potential sources to get oxygen tanks or concentrators from',
 
     icon: ({ className }: { className: string }) => {
       return (
@@ -106,7 +106,7 @@ function classNames(...classes: any[]) {
 }
 
 const IndexPage = () => (
-  <Layout title="Home | Next.js + TypeScript Example">
+  <Layout title="Kanpur | COVID Home">
     <div className="flex p-5 justify-center">
       <div className="max-w-5xl  rounded-lg bg-gray-200 overflow-hidden shadow divide-y divide-gray-200 sm:divide-y-0 sm:grid sm:grid-cols-2 sm:gap-px">
         {actions.map((action, actionIdx) => {

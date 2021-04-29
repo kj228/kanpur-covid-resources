@@ -1,1 +1,102 @@
-{"data":[{"uuid":"a6d57743-e69e-42b0-ba3b-95e631bd7beb","name":"Kushagra Jain","contact":"9792869369","description":"Oxygen refill available at hamirpur.","lastVerified":1619457868210}]}
+{
+  "data": [
+    {
+      "uuid": "a6d57743-e69e-42b0-ba3b-95e631bd7beb",
+      "name": "Manoj",
+      "contact": "9792869369",
+      "description": "Oxygen refill available at hamirpur.",
+      "lastVerified": 1619457868210
+    },
+    {
+      "uuid": "b8989d17-dc1c-4d3f-a1bb-38ab01eb7393",
+      "name": "Sri Anil Babbar",
+      "contact": "9335732699",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "89687e85-5f0c-41fa-afca-954630b27d7e",
+      "name": "Sanjay Mehrotra",
+      "contact": " 9839114889",
+      "description": "For oxygen cylinders, oxygen concentrators, CIPAP Machines or any life-saving medicines, please call Mr Sanjay anytime.",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "b3e81792-7a09-4ce9-8f79-4899bf81edfb",
+      "name": "Murari Industrial Gases",
+      "contact": "9415040705",
+      "description": "Oxygen. Contact Ajay Mishra.",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "86839715-f514-4214-9ab6-0be579be0377",
+      "name": "Adarsh",
+      "contact": "8787092670",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "82e1171d-23e2-4438-98d5-387b3a7798b5",
+      "name": "Shishir Vishvakarma",
+      "contact": "9569163262",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "37854453-8cf8-4c54-8769-a56323feacc8",
+      "name": "Kanpur Oxygen",
+      "contact": "7985096433",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "b901cecf-86d6-4414-8281-af3600e13717",
+      "name": "Shakti Medical",
+      "contact": "9839114889",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "9ef00bb6-2024-4871-a800-c45805a5659f",
+      "name": "Shivaji Nagar",
+      "contact": "9721297978",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "2266231b-7b42-41ab-a6b6-d6b420e0779f",
+      "name": "Kanpur Dehat (exterior area)",
+      "contact": "9236752114",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "934fa11f-8b7c-4c1d-b3d7-0f62b091fbea",
+      "name": "Oxygen Plant in Hamirpur 80 km from kanpur UP - to fill cylinders",
+      "contact": "9889843000",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "3655a170-ea44-482b-a4c2-116d700e2e4a",
+      "name": "Harshit Shakya",
+      "contact": "7309565645",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "126fbea5-4813-4344-a3bd-71559eb5132e",
+      "name": "Kamlesh",
+      "contact": "7210114978, 7275000022",
+      "description": "Panki Oxygen",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "a01e783c-2af0-488e-ad2a-dc66121fc067",
+      "name": "N/A",
+      "contact": "8082382468",
+      "description": "",
+      "lastVerified": -1
+    }
+  ]
+}

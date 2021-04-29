@@ -17,7 +17,7 @@ export default function Resources({
 }) {
   const { data } = list
   return (
-    <Layout title={`${id} Resources`}>
+    <Layout title={`${id.charAt(0).toUpperCase() + id.slice(1)} Resources`}>
       <div className="flex flex-col items-center h-screen">
         <div className="max-w-7xl w-full -my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
           <div className="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8">

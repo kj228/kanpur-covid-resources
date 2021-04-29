@@ -69,14 +69,15 @@ function NewResource() {
                   Add resources
                 </h3>
                 <p className="mt-1 text-sm text-gray-600">
-                  This is a simple way to add resources. if you want to mass add
-                  resources reach out to{' '}
+                  If you don't have any resources to add but still wish to help you can use this
+                  {' '}
                   <a
                     className="text-indigo-800"
-                    href="https://twitter.com/CryogenicPlanet">
-                    @CyrogenicPlanet
+                    href="https://twitter.com/search?q=verified+Kanpur+%28bed+OR+beds+OR+icu+OR+oxygen+OR+ventilator+OR+ventilators+OR+remdesivir+OR+plasma+OR+tiffin+OR+food+OR+ambulance%29+-%22not+verified%22+-%22unverified%22+-%22needed%22+-%22need%22+-%22needs%22+-%22required%22+-%22require%22+-%22requires%22+-%22requirement%22+-%22requirements%22&f=live">
+                    Twitter link
                   </a>{' '}
-                  on Twitter
+                   to find available resources and manually add them to the site
+                  for everyone to benefit.
                 </p>
               </div>
             </div>

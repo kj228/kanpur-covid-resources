@@ -1,3 +1,32 @@
 {
-  "data": []
+  "data": [
+    {
+      "uuid": "09bae486-c2ae-45d2-bcf6-87690a8cb5dc",
+      "name": "Sagar Ratna Kanpur",
+      "contact": " 6389188882",
+      "description": "We are Sagar Ratna(Kanpur Vertical) we are supplying food for covid patients at 139rs+packaging charges and gst. with 0 delivery charges. in which there are dal,sabzi, roti,rice and salad. Ghar ka khana",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "75fcbb75-1a26-4b68-877a-83129365797a",
+      "name": "Panki Oxygen",
+      "contact": " 7275000022",
+      "description": "Oxygen. Contact Kamesh.",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "11e68db8-4375-4770-bd66-bf9700163a95",
+      "name": "Akash",
+      "contact": "7985791438",
+      "description": "Ambulance. \nAddress: Plot no. 76 panchwati, Vinayakpur kanpur.",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "91a801b5-f2f4-4cd6-83b5-e5c82836d33e",
+      "name": "Piyush ICU ambulance",
+      "contact": "9336111080",
+      "description": "Ambulance",
+      "lastVerified": -1
+    }
+  ]
 }

@@ -1,3 +1,46 @@
 {
-  "data": []
+  "data": [
+    {
+      "uuid": "d6ca976c-7046-4d63-b95d-13ef734de837",
+      "name": "Grace Hospital",
+      "contact": "9935523711‬",
+      "description": "WhatsApp Only",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "c51d3c67-7707-4139-9f93-9071ff02be45",
+      "name": "CSVM Kanpur",
+      "contact": "9454086141",
+      "description": "",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "29f3ad9d-edd5-4772-8bd5-b72d9c2b8200",
+      "name": "Rajeev Shukla",
+      "contact": "9935779900",
+      "description": "With Oxygen",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "3374bd6d-f4f6-4aae-b43f-c80e072e49a3",
+      "name": "Smart Care Hospital",
+      "contact": "9839771626",
+      "description": "Non-Oxygen Bed",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "199f93d8-69bc-4e7c-9fde-20140b6c8a49",
+      "name": "Surendra Rajput",
+      "contact": "7906229167",
+      "description": "Hospital: JLR hospital",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "2f146f59-9242-4826-84ec-7bbf6babf6c2",
+      "name": "J L Rohtagi Hospital",
+      "contact": "Call 7235002769 / 7235002868",
+      "description": "Hospital Beds - With Oxygen. JL Rohatagi Hospital, Sarvoday Nagar.",
+      "lastVerified": -1
+    }
+  ]
 }
