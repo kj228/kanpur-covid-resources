@@ -26,6 +26,7 @@ List of exisiting cities that have repository with data
 | --------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | Bangalore | https://github.com/CryogenicPlanet/covid-bangalore-resources | https://covid-bangalore-resources.cryogenicplanet.repl.co/ |
 | Jabalpur (M.P.) | https://github.com/Siddhant-K-code/Jabalpur-covid-resources | https://jabalpur-covid-resources.siddhantkcode.repl.co/ |
+| Kanpur | https://github.com/kj228/kanpur-covid-resources/ | https://kanpur-covid-resources--kushagrajain11.repl.co/ |
 
 # Cloning for other cities
 
