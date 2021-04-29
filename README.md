@@ -3,20 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![Run on repl.it](https://repl.it/badge/github/CryogenicPlanet/covid-resources)](https://repl.it/github/CryogenicPlanet/covid-resources}&ref=button)
+[![Run on repl.it](https://kanpur-covid-resources--kushagrajain11.repl.co/)](https://kanpur-covid-resources--kushagrajain11.repl.co/}&ref=button)
 
-This is a general repo not for any specific city but rather any city, fork this repo for other cities
-
-There are lot of collections of valuable data but keeping it an open source place like this makes it much better to search and not duplicate.
-
-# Getting Started
-
-Set the variables in `.env.example` and move them to `.env.local`
-
-```
-yarn install
-yarn build
-```
+This is the specific repo for Kanpur. The general repo template can be found at 
 
 # Cities
 
